@@ -1,0 +1,3 @@
+export const ADD_ITEM ="ADD_ITEM";
+export const ON_CHANGE_STATE="ON_CHANGE_STATE";
+export const ON_REMOVE_ELEMENT="ON_REMOVE_ELEMENT";
